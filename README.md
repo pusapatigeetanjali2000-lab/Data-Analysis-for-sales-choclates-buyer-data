@@ -1,3 +1,6 @@
+
+Choclates buyer data analysis in excel
+
 1) how to structure your data with Excel tables
 2) data cleaning in Excel
 3) how to use pivot tables for doing trend analysis
